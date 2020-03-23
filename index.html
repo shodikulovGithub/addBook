@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
+          crossorigin="anonymous">
+</head>
+<body>
+
+<div class="container my-5">
+    <h1>Add Book</h1>
+    <div id="alert-message"></div>
+    <form id="book-form">
+        <div class="form-group">
+            <label for="title">Title</label>
+            <input type="text" class="form-control" id="title" />
+        </div>
+        <div class="form-group">
+            <label for="author">Author</label>
+            <input type="text" class="form-control" id="author" />
+        </div>
+        <div class="form-group">
+            <label for="isbn">#ISBN</label>
+            <input type="text" class="form-control" id="isbn" />
+        </div>
+        <div class="form-group">
+            <input type="submit" value="Submit" class="form-control mt-5" />
+        </div>
+    </form>
+
+    <table class="table table-bordered table-striped">
+        <thead>
+        <tr>
+            <th>Title</th>
+            <th>Author</th>
+            <th>ISBN</th>
+            <th></th>
+        </tr>
+        </thead>
+        <tbody id="book-list"></tbody>
+    </table>
+
+</div>
+
+<script src="appes6.js"></script>
+</body>
+
+</html>
