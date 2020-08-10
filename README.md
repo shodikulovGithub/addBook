@@ -1,6 +1,6 @@
-<h1>Link to App
+<h3>Link to App
 <a href="https://priceless-kepler-5be14d.netlify.app">Addbook.com</a>
-</h1>
+</h3>
 <ul>
 <li>Books you are reading right now</li>
 <li>Books that you have already finished</li>
