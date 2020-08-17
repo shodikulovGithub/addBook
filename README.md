@@ -1,4 +1,4 @@
-<h3>Link to App
+<h3>Open the App
 <a href="https://priceless-kepler-5be14d.netlify.app">Addbook.com</a>
 </h3>
 <ul>
