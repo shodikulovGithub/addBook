@@ -1,5 +1,5 @@
 <h3>Open 
-<a href="https://priceless-kepler-5be14d.netlify.app">Addbook.com</a>
+<a href="https://priceless-kepler-5be14d.netlify.app">Addbook App</a>
 </h3>
 <ul>
 <li>Books you are reading right now</li>
